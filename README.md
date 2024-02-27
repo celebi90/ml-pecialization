@@ -11,3 +11,8 @@ discover ml world
     2. ML model testing with dataset and real-world test data
     3. ML model implementation for ML server dev or classic ML task handler
 2. 
+
+# ML Models and some important Models
+
+## LLM
+1. Mistral (Open Source)
