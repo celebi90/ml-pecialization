@@ -14,5 +14,13 @@ discover ml world
 
 # ML Models and some important Models
 
+# MLOps 
+Summerize MLOps and short notes if necessary how to build workflows/pipelines 
+
+
 ## LLM
 1. Mistral (Open Source)
+
+
+### SOME Important concept and link to investigate
+1. HiveMind for decentralized deep learning in PyTorch, use collective machine power to empower society :D https://github.com/learning-at-home/hivemind 
